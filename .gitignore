@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Account exports (don't add these files to repos)
+*.ofx
+*.qfx
